@@ -17,7 +17,6 @@
       <li>Before forking, print out some initial message</li>
       <li>After the fork, wait for any child to finish</li>
       <li>Once a child has finished, print out the pid of the completed child as well as how many seconds it was asleep for. (Do not run any kind of timer, think about how the child could send this information back to the parent.)</li>
-
       <li>Print a message that the parent is done and then end the program</li>
       <li>The other child might still be running and can finish after the parent, that's ok.</li>
     </ul>
