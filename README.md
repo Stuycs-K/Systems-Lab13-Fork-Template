@@ -9,7 +9,6 @@
       <li>Sleep for a random number of seconds equal to the random number printed earlier (do not re-random the value!)</li>
       <li>Each child calculates their own random, so they can each sleep for a different number of seconds</li>
       <li>At the end print a message "PID finished" e.g. "123531 finished after 5 seconds."</li>
-      
     </ul>
   </li>
   <li>
