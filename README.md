@@ -1,5 +1,7 @@
 # Systems-Lab-Fork
 
+<p>Make should have compile and run targets.</p>
+<p>Write a c program that does the following:</p>
 <ol>
   <li>Forks off 2 child processes</li>
   <li>
